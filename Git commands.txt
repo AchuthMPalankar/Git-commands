@@ -1,0 +1,30 @@
+Basic Commands
+
+1. git config --global user.name "Your-user-Name"
+2. git config --global user.email "your-email"
+
+>> to check configurations done are not :- 
+   git config --global user.name
+   git config --global user.email
+
+3. git init - Initialize a Git repository
+4. git add <file_name> - Add changes to the staging area
+   git add . - Add all changes
+5. git status - Check status of your working tree
+6. git commit -m "commit-message" - Commit changes
+
+>> to check commited messages :- 
+   git config --oneline
+
+>> to check list all git configurations :-
+   git config --list
+
+7. git remote add <name> <url> - Add a new remote repository
+>> to check the connection :-
+   git remote -v
+
+8. git push <name> master - Pushes local to remote repo..
+ 
+  
+
+   
