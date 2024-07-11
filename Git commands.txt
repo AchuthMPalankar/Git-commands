@@ -1,6 +1,6 @@
-Basic Commands
+Basic Commands of git
 
-1. git config --global user.name "Your-user-Name"
+1. git config --global user.name "Your-user-Name" 
 2. git config --global user.email "your-email"
 
 >> to check configurations done are not :- 
