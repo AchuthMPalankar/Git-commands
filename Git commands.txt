@@ -1,4 +1,4 @@
-Basic Commands of git
+Basic git Commands..
 
 1. git config --global user.name "Your-user-Name" 
 2. git config --global user.email "your-email"
